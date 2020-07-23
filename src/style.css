@@ -1,4 +1,4 @@
-		<style type="text/css">
+<style type="text/css">
 
 			@font-face {
 				font-family: 'Lato';
@@ -8,7 +8,7 @@
 			}
 
 			@font-face {
-				font-family: 'Lato';
+				font-family: 'LatoBold';
 				font-style: normal;
 				font-weight: 700;
 				src: url('./assets/Lato-Bold.ttf') format('truetype');
@@ -90,11 +90,11 @@
 			}
 
 			#location {
-				width: 6px;
-				height: 6px;
+				width: 4px;
+				height: 4px;
 				position: absolute;
-				left: 16px;
-				top: 31px;
+				left: 107px;
+				top: 38px;
 				border-radius: 3px;
 				background-color: #0080ee;
 			}
