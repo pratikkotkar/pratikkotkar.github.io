@@ -4,24 +4,24 @@
 				font-family: 'Lato';
 				font-style: normal;
 				font-weight: 300;
-				src: url('assets/Lato-Light.ttf') format('truetype');
+				src: url("assets/Lato-Light.ttf") format('truetype');
 			}
 
 			@font-face {
 				font-family: 'LatoBold';
 				font-style: normal;
 				font-weight: 700;
-				src: url('assets/Lato-Bold.ttf') format('truetype');
+				src: url("assets/Lato-Bold.ttf") format('truetype');
 			}
 
 			.sprite {
-				background: url(./assets/sprite.png) no-repeat 0px 0px;
+				background: url("assets/sprite.png") no-repeat 0px 0px;
 				background-size: 180px 140px
 			}
 
 			@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 				.sprite {
-					background: url(./assets/sprite@2x.png) no-repeat 0px 0px;
+					background: url("assets/sprite@2x.png") no-repeat 0px 0px;
 					background-size: 180px 140px
 				}
 			}
