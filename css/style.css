@@ -23,7 +23,7 @@
 		}
 
 		.sprite {
-			background: url('../assets/images/sprite.png') no-repeat 0px 0px;
+			background: url('../assets/images/sprite@2x.png') no-repeat 0px 0px;
 			background-size: 180px 140px
 		}
 
@@ -36,7 +36,9 @@
 
 		.profile	{ width:  60px; height: 60px; background-position:    0px   0px; }
 		.map		{ width: 160px; height: 80px; background-position:    0px -60px; }
-		.twitter	{ width:  30px; height: 30px; background-position:  -60px   0px; }
+.twitter	{ width:  30px; height: 30px; background-position:  -60px   0px; }
+		.me		{ width:  30px; height: 30px; background-position:  -60px -30px; }
+		
 		.github		{ width:  30px; height: 30px; background-position:  -90px   0px; }
 		.linkedin	{ width:  30px; height: 30px; background-position: -120px   0px; }
 		.facebook	{ width:  30px; height: 30px; background-position: -150px   0px; }
