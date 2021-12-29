@@ -125,6 +125,16 @@
 			border-left: 5px solid #0080ee;
 		}
 
+		.subheadlinerow {
+			font-weight: 300;
+			font-size: 1.12em;
+			line-height: 1.4em;
+			margin: 6px 0px 22px 0px;
+			padding-left: 10px;
+			color: #868686;
+			
+		}
+
 		.links {
 			margin: 0px 0px 45px 0px;
 		}
